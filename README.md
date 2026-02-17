@@ -21,8 +21,6 @@
 | [RoboEyes](https://github.com/FluxGarage/RoboEyes) |
 
 ## Wiring
----
 ![preview wire](https://raw.githubusercontent.com/ehancup/roboeye_face/refs/heads/main/wire.png)
 
----
 [Open in wokwi](https://wokwi.com/projects/456200614546743297)
